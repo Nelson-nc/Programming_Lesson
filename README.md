@@ -1,6 +1,6 @@
-# 🎓 Code University: Comprehensive Programming Lessons
+# 🎓 Comprehensive Programming Lessons
 
-Welcome to **Code University**! This repository serves as a structured knowledge base for mastering various programming languages and computer science concepts. Whether you are a beginner taking your first steps or an experienced developer brushing up on low-level internals, you will find detailed lesson plans and notes here.
+Welcome! This repository serves as a structured knowledge base for mastering various programming languages and computer science concepts. Whether you are a beginner taking your first steps or an experienced developer brushing up on low-level internals, you will find detailed lesson plans and notes here.
 
 ## 📂 Curriculum Overview
 
