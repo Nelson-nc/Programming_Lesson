@@ -8,14 +8,14 @@ The coursework is divided into distinct tracks, each focusing on a specific lang
 
 | Track | Description | Status |
 | :--- | :--- | :--- |
-| **🐍 Python** | From variables to async web servers and data science. | `Active` |
-| **☕ Java** | OOP, JVM internals, Spring, and enterprise development. | `Active` |
-| **🔢 C** | Memory management, pointers, and system-level programming. | `Active` |
-| **🚀 C++** | High-performance code, STL, and advanced memory semantics. | `Active` |
-| **🔷 C#** | .NET ecosystem, LINQ, and modern application development. | `Active` |
-| **🌐 JavaScript** | Frontend, Node.js, async patterns, and the DOM. | `Active` |
-| **⚙️ Assembly** | x86/ARM architecture, registers, and hardware interaction. | `Active` |
-| **🖥️ OS Internals** | How operating systems manage resources and processes. | `Active` |
+| **🐍 Python** | From variables to async web servers and data science. |
+| **☕ Java** | OOP, JVM internals, Spring, and enterprise development. |
+| **🔢 C** | Memory management, pointers, and system-level programming. |
+| **🚀 C++** | High-performance code, STL, and advanced memory semantics. |
+| **🔷 C#** | .NET ecosystem, LINQ, and modern application development. |
+| **🌐 JavaScript** | Frontend, Node.js, async patterns, and the DOM. |
+| **⚙️ Assembly** | x86/ARM architecture, registers, and hardware interaction. |
+| **🖥️ OS Internals** | How operating systems manage resources and processes. |
 
 ## 🚀 Getting Started
 
