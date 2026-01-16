@@ -5,7 +5,7 @@ Welcome! This repository serves as a structured knowledge base for mastering var
 ## 🚀 Getting Started
 
 ### Convert to HTML
-This repository includes a utility script to convert the Markdown lessons into HTML files for a better reading experience in your browser.
+This repository includes a python script to convert the Markdown lessons into HTML files for a better reading experience in your browser.
 
 **Prerequisites:**
 - Python 3.x installed on your system.
